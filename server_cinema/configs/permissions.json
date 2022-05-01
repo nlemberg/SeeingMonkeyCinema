@@ -1,0 +1,54 @@
+[
+  {
+    "id": "6215212816da0f2abe505084",
+    "permissions": {
+      "viewSubscriptions": true,
+      "createSubscriptions": true,
+      "updateSubscriptions": true,
+      "deleteSubscriptions": true,
+      "viewMovies": true,
+      "createMovies": true,
+      "updateMovies": true,
+      "deleteMovies": true
+    }
+  },
+  {
+    "id": "621ce633e27ae038f9f83728",
+    "permissions": {
+      "viewSubscriptions": true,
+      "createSubscriptions": false,
+      "updateSubscriptions": false,
+      "deleteSubscriptions": false,
+      "viewMovies": true,
+      "createMovies": false,
+      "updateMovies": false,
+      "deleteMovies": false
+    }
+  },
+  {
+    "id": "621ce916e27ae038f9f83736",
+    "permissions": {
+      "viewSubscriptions": true,
+      "createSubscriptions": true,
+      "updateSubscriptions": true,
+      "deleteSubscriptions": true,
+      "viewMovies": false,
+      "createMovies": false,
+      "updateMovies": false,
+      "deleteMovies": false
+    }
+  },
+  {
+    "id": "623c8da39793ebcba44dbfac",
+    "permissions": {
+      "viewSubscriptions": false,
+      "createSubscriptions": false,
+      "updateSubscriptions": false,
+      "deleteSubscriptions": false,
+      "viewMovies": true,
+      "createMovies": true,
+      "updateMovies": true,
+      "deleteMovies": true
+    }
+  }
+]

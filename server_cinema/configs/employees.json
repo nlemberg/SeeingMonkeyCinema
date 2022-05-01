@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6215212816da0f2abe505084",
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "createdAt": "2022-02-22T17:45:12.147Z"
+  },
+  {
+    "id": "621ce633e27ae038f9f83728",
+    "firstName": "Robert",
+    "lastName": "Sponge",
+    "createdAt": "2022-02-28T15:11:47.952Z"
+  },
+  {
+    "id": "621ce916e27ae038f9f83736",
+    "firstName": "Patrick",
+    "lastName": "Starr",
+    "createdAt": "2022-02-28T15:24:06.796Z"
+  },
+  {
+    "id": "623c8da39793ebcba44dbfac",
+    "firstName": "Cloud",
+    "lastName": "Black",
+    "createdAt": "2022-03-24T15:26:27.462Z"
+  }
+]
