@@ -4,14 +4,14 @@ import { BrowserRouter } from "react-router-dom";
 import { Provider } from "react-redux";
 import { ThemeProvider } from "@mui/material";
 import App from "./App";
-import store from "./store"
+import store from "./store";
 import theme from "./theme";
 
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
       <BrowserRouter>
-        <ThemeProvider theme={theme}>     
+        <ThemeProvider theme={theme}>
           <App />
         </ThemeProvider>
       </BrowserRouter>
